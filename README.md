@@ -59,7 +59,7 @@ To analyze Superstore's sales data and extract meaningful insights related to re
 
 ## 📎 Link to the Notebook
 
-👉 superstore_sales_analysis.ipynb
+👉 ## [Click here to view the Jupyter Notebook](https://github.com/yourusername/your-repo-name/blob/main/superstore_sales_analysis_final.ipynb)
 
 ---
 
