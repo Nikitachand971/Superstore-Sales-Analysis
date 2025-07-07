@@ -30,14 +30,7 @@ To analyze Superstore's sales data and extract meaningful insights related to re
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## 📷 Sample Visualizations
-
-> _Note: You can upload these plots in your GitHub repo to show visuals if desired._
 
 - **Monthly Sales vs Profit Line Chart**
 - **Top 10 Customers Bar Plot**
