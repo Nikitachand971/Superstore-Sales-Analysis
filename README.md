@@ -49,14 +49,6 @@ To analyze Superstore's sales data and extract meaningful insights related to re
 
 ---
 
-## 🚀 Next Steps
-
-- Perform deeper analysis by customer segments
-- Apply **forecasting models** to predict future sales trends
-- Build a dashboard using Power BI or Tableau
-
----
-
 ## 📎 Link to the Notebook
 
 👉 ## [Click here to view the Jupyter Notebook](https://github.com/Nikitachand971/Superstore-Sales-Analysis/blob/main/superstore_sales_analysis.ipynb)
