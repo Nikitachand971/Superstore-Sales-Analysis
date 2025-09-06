@@ -35,18 +35,6 @@ To analyze Superstore's sales data and extract meaningful insights related to re
 - **Sales by Region and Category Heatmap**
 - **Profit Distribution by Sub-Category**
 
----
-
-## 🔍 What I Learned
-
-- Writing and optimizing SQL queries
-- Exporting data from PostgreSQL to CSV
-- Using Python for data manipulation and trend analysis
-- Visualizing data with Seaborn and Matplotlib
-- Structuring a data project end-to-end
-
----
-
 ## 📎 Link to the Notebook
 
 👉 ## [Click here to view the Jupyter Notebook](https://github.com/Nikitachand971/Superstore-Sales-Analysis/blob/main/superstore_sales_analysis.ipynb)
