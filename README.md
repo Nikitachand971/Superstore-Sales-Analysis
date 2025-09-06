@@ -16,7 +16,7 @@ To analyze Superstore's sales data and extract meaningful insights related to re
 - **pgAdmin**: SQL interface for database exploration
 - **Python (Pandas, Matplotlib, Seaborn)**: Data cleaning, transformation, and visualization
 - **Jupyter Notebook**: Documentation and presentation
-- **Excel**: For basic validation (optional)
+- **Excel**: For basic validation
 
 ---
 
@@ -27,8 +27,6 @@ To analyze Superstore's sales data and extract meaningful insights related to re
 - Found regional disparities in performance (e.g., certain regions contributing higher profits).
 - Discovered the top customers based on sales and order volume.
 - Highlighted loss-making segments needing strategic focus.
-
----
 
 ## 📷 Sample Visualizations
 
